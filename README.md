@@ -1,4 +1,4 @@
-# Halo semua! Saya [Nama Kamu] 👋
+# Halo semua! Saya AHMAD AZZURI PAKALESSY 👋
 
 ### 🎓 Mahasiswa Informatika (Semester 2)
 Saya seorang pembelajar yang sedang fokus mendalami dasar-dasar pemrograman dan algoritma.
@@ -24,7 +24,7 @@ Saya seorang pembelajar yang sedang fokus mendalami dasar-dasar pemrograman dan 
 
 ### 📫 Mari Berteman!
 - **LinkedIn:** [link-linkedin-kamu]
-- **Instagram:** @[azzurii._]
--  **Tiktok:** @[azzurii27]
+- **Instagram:** @azzurii._
+-  **Tiktok:** @azzurii27
 
 > "Coding is not just about syntax, it's about solving problems." 💻
