@@ -10,10 +10,8 @@ Saya seorang pembelajar yang sedang fokus mendalami dasar-dasar pemrograman dan 
 ---
 
 ### 🛠 Tech Stack yang Sedang Dipelajari
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
