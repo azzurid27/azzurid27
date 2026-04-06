@@ -15,11 +15,6 @@ Saya seorang pembelajar yang sedang fokus mendalami dasar-dasar pemrograman dan 
 
 ---
 
-### 📊 Statistik Belajar
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Mari Berteman!
 - **LinkedIn:** [link-linkedin-kamu]
 - **Instagram:** @azzurii._
