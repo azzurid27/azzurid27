@@ -16,7 +16,7 @@ Saya seorang pembelajar yang sedang fokus mendalami dasar-dasar pemrograman dan 
 ---
 
 ### 📫 Mari Berteman!
-- **LinkedIn:** [link-linkedin-kamu]
+- **LinkedIn:** [[link-linkedin-kamu]](https://www.linkedin.com/in/ahmad-azzuri-pakalessy-6b3925390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - **Instagram:** @azzurii._
 -  **Tiktok:** @azzurii27
 
