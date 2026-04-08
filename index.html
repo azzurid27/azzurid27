@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Simple Website</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav id="navbar">
+    <a class="logo" href="#">SiteName</a>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+    <button class="menu-toggle" aria-label="Toggle menu">&#9776;</button>
+  </nav>
+  <section id="hero">
+    <h1 class="hero-title">Welcome</h1>
+    <p class="hero-subtitle">A short tagline here</p>
+    <a href="#contact" class="btn-primary">Get Started</a>
+  </section>
+
+  <section id="about" class="section">
+    <div class="container">
+      <h2>About</h2>
+      <p>We are a passionate team dedicated to delivering quality solutions.</p>
+    </div>
+  </section>
+
+  <section id="services" class="section">
+    <div class="container">
+      <h2>Services</h2>
+      <p>We offer a range of services tailored to your needs.</p>
+    </div>
+  </section>
+
+  <section id="contact" class="section">
+    <div class="container">
+      <h2>Contact</h2>
+      <form id="contact-form" novalidate>
+        <div class="form-group">
+          <label for="name">Name</label>
+          <input type="text" id="name" name="name" required />
+          <span class="error-msg" id="name-error"></span>
+        </div>
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required />
+          <span class="error-msg" id="email-error"></span>
+        </div>
+        <div class="form-group">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" required></textarea>
+          <span class="error-msg" id="message-error"></span>
+        </div>
+        <button type="submit">Send</button>
+        <p class="success-msg" id="success-msg" hidden>Thank you! Your message has been sent.</p>
+      </form>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 SiteName. All rights reserved.</p>
+  </footer>
+
+  <script src="main.js" defer></script>
+</body>
+</html>
